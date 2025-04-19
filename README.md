@@ -1,16 +1,21 @@
-## Hi there 👋
+## About Me 🚀
 
-<!--
-**AlyanKhan04/AlyanKhan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🎓 I'm a Data Analyst with hands-on experience in data extraction, transformation and visualization.
 
-Here are some ideas to get you started:
+    🔨 Proficient in cloud-based platforms including Snowflake, AWS, and Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    👨‍💻 I'm interested in data-related fields like GenAI and Machine Learning & I enjoy learning new things.
+
+## Technical Skills 🛠️
+
+   * 𝑪𝒍𝒐𝒖𝒅 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎𝒔: Amazon Web Services (AWS), Microsoft Azure
+  
+   * 𝑫𝒂𝒕𝒂 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎𝒔: Databricks, Snowflake
+  
+   * 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔: Python, SQL, Apache Spark, Java, (Linux) Shell scripting
+  
+   * 𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔/𝑻𝒐𝒐𝒍𝒔: NumPy, Pandas, Matplotlib, Seaborn, Apache spark.
+
+## Certifications 📜
+
+   * Data Analyst From Aptech 
