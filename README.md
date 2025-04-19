@@ -1,10 +1,10 @@
 ## About Me 🚀
 
-    🎓 I'm a Data Analyst with hands-on experience in data extraction, transformation and visualization.
+🎓 I'm a Data Analyst with hands-on experience in data extraction, transformation and visualization.
 
-    🔨 Proficient in cloud-based platforms including Snowflake, AWS, and Azure.
+🔨 Proficient in cloud-based platforms including Snowflake, AWS, and Azure.
 
-    👨‍💻 I'm interested in data-related fields like GenAI and Machine Learning & I enjoy learning new things.
+👨‍💻 I'm interested in data-related fields like GenAI and Machine Learning & I enjoy learning new things.
 
 ## Technical Skills 🛠️
 
